@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PollyTTS", "PollyTTS\PollyTTS.csproj", "{B8D80EE6-43DA-4CA9-897A-910EB1D28F5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8D80EE6-43DA-4CA9-897A-910EB1D28F5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8D80EE6-43DA-4CA9-897A-910EB1D28F5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8D80EE6-43DA-4CA9-897A-910EB1D28F5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8D80EE6-43DA-4CA9-897A-910EB1D28F5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9C63D6F-0CE5-4BDF-B5E6-EC0F37F5365F}
+	EndGlobalSection
+EndGlobal
